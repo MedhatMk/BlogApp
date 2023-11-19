@@ -10,3 +10,7 @@
 ## Post Detail Page
 ![image](https://github.com/MedhatMk/BlogApp/assets/79722400/2b624d27-fbcc-4113-b5e0-15b806fee5b6)
 
+## Edit
+![image](https://github.com/MedhatMk/BlogApp/assets/79722400/b3a22628-2120-4aef-bd65-ffbe2b270343)
+
+
